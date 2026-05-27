@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/PZTA92:PZTA92",
+  "name": "PZTA92",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/PZTA92.kicad_sym",
+  "description": "0.5A Ic, 300V Vce, PNP High Voltage Transistor, SOT-223",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/PZTA92T1-D.PDF",
+  "keywords": "PNP High Voltage Transistor",
+  "footprint": "Package_TO_SOT_SMD:SOT-223-3_TabPin2",
+  "extends": "Q_PNP_BCE",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/PZTA92/",
+  "part_path": "parts/PZTA92",
+  "symbol_file": "parts/PZTA92/PZTA92.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.660Z"
+}

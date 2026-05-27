@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/BC517:BC517",
+  "name": "BC517",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/BC517.kicad_sym",
+  "description": "1A Ic, 30V Vce, Darlington NPN Transistor, TO-92",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/BC517-D74Z-D.PDF",
+  "keywords": "NPN Darlington Darl Transistor",
+  "footprint": "Package_TO_SOT_THT:TO-92_Inline",
+  "extends": "Q_NPN_Darlington_CBE",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/BC517/",
+  "part_path": "parts/BC517",
+  "symbol_file": "parts/BC517/BC517.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:04.547Z"
+}

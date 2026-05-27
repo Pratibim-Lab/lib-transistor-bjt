@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/MMBTA42:MMBTA42",
+  "name": "MMBTA42",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/MMBTA42.kicad_sym",
+  "description": "0.5A Ic, 300V Vce, NPN High Voltage Transistor, SOT-23",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/MMBTA42LT1-D.PDF",
+  "keywords": "NPN High Voltage Transistor",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "Q_NPN_BEC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/MMBTA42/",
+  "part_path": "parts/MMBTA42",
+  "symbol_file": "parts/MMBTA42/MMBTA42.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.504Z"
+}

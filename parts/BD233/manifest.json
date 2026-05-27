@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/BD233:BD233",
+  "name": "BD233",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/BD233.kicad_sym",
+  "description": "2A Ic, 45V Vce, Low Voltage Transistor, TO-126",
+  "datasheet": "https://media.digikey.com/pdf/Data%20Sheets/Micro%20Commercial%20PDFs/BD233,235,237.pdf",
+  "keywords": "Low Voltage Transistor",
+  "footprint": "Package_TO_SOT_THT:TO-126-3_Vertical",
+  "extends": "Q_NPN_ECB",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/BD233/",
+  "part_path": "parts/BD233",
+  "symbol_file": "parts/BD233/BD233.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:04.965Z"
+}

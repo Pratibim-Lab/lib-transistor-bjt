@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/BD234:BD234",
+  "name": "BD234",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/BD234.kicad_sym",
+  "description": "2A Ic, 45V Vce, Low Voltage Transistor, TO-126",
+  "datasheet": "http://www.electronica-pt.com/datasheets/bd/BD234.pdf",
+  "keywords": "Low Voltage Transistor",
+  "footprint": "Package_TO_SOT_THT:TO-126-3_Vertical",
+  "extends": "Q_PNP_ECB",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/BD234/",
+  "part_path": "parts/BD234",
+  "symbol_file": "parts/BD234/BD234.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:04.968Z"
+}

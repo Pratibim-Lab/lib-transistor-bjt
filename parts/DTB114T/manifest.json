@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/DTB114T:DTB114T",
+  "name": "DTB114T",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/DTB114T.kicad_sym",
+  "description": "Digital PNP Transistor, 10k/NONE, SOT-23",
+  "datasheet": "",
+  "keywords": "ROHM Digital PNP Transistor",
+  "footprint": "",
+  "extends": "DTA114T",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/DTB114T/",
+  "part_path": "parts/DTB114T",
+  "symbol_file": "parts/DTB114T/DTB114T.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.292Z"
+}

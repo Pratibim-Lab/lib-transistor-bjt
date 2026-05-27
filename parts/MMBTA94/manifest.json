@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/MMBTA94:MMBTA94",
+  "name": "MMBTA94",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/MMBTA94.kicad_sym",
+  "description": "0.3A Ic, 400V Vce, PNP High Voltage Transistor, SOT-23",
+  "datasheet": "https://diotec.com/request/datasheet/mmbta92.pdf",
+  "keywords": "PNP",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "Q_PNP_BEC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/MMBTA94/",
+  "part_path": "parts/MMBTA94",
+  "symbol_file": "parts/MMBTA94/MMBTA94.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.518Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/MMBTA92:MMBTA92",
+  "name": "MMBTA92",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/MMBTA92.kicad_sym",
+  "description": "0.5A Ic, 300V Vce, PNP High Voltage Transistor, SOT-23",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/MMBTA92LT1-D.PDF",
+  "keywords": "PNP High Voltage Transistor",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "Q_PNP_BEC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/MMBTA92/",
+  "part_path": "parts/MMBTA92",
+  "symbol_file": "parts/MMBTA92/MMBTA92.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.514Z"
+}

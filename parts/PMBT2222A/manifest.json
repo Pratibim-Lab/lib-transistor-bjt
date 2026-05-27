@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/PMBT2222A:PMBT2222A",
+  "name": "PMBT2222A",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/PMBT2222A.kicad_sym",
+  "description": "600mA Ic, 40V Vce, NPN Transistor, SOT-23",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/PMBT2222A.pdf",
+  "keywords": "NPN Transistor",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "Q_NPN_BEC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/PMBT2222A/",
+  "part_path": "parts/PMBT2222A",
+  "symbol_file": "parts/PMBT2222A/PMBT2222A.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.620Z"
+}

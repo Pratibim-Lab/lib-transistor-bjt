@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/BC860W:BC860W",
+  "name": "BC860W",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/BC860W.kicad_sym",
+  "description": "0.1A Ic, 45V Vce, PNP Small Signal Transistor, SOT-323",
+  "datasheet": "http://www.infineon.com/dgdl/Infineon-BC857SERIES_BC858SERIES_BC859SERIES_BC860SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541da0e3a1661",
+  "keywords": "PNP Transistor",
+  "footprint": "Package_TO_SOT_SMD:SOT-323_SC-70",
+  "extends": "Q_PNP_BEC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/BC860W/",
+  "part_path": "parts/BC860W",
+  "symbol_file": "parts/BC860W/BC860W.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:04.890Z"
+}

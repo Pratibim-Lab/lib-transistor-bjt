@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/BC107:BC107",
+  "name": "BC107",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/BC107.kicad_sym",
+  "description": "0.1A Ic, 50V Vce, Low Noise General Purpose NPN Transistor, TO-18",
+  "datasheet": "http://www.b-kainka.de/Daten/Transistor/BC108.pdf",
+  "keywords": "NPN low noise transistor",
+  "footprint": "Package_TO_SOT_THT:TO-18-3",
+  "extends": "Q_NPN_EBC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/BC107/",
+  "part_path": "parts/BC107",
+  "symbol_file": "parts/BC107/BC107.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:04.404Z"
+}

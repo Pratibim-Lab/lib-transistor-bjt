@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/2SD1047:2SD1047",
+  "name": "2SD1047",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/2SD1047.kicad_sym",
+  "description": "12A Ic, 140V Vce, Silicon Power NPN Transistors, TO-3PB",
+  "datasheet": "http://www.st.com/resource/en/datasheet/2sd1047.pdf",
+  "keywords": "Power NPN Transistor",
+  "footprint": "Package_TO_SOT_THT:TO-3PB-3_Vertical",
+  "extends": "Q_NPN_BCE",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/2SD1047/",
+  "part_path": "parts/2SD1047",
+  "symbol_file": "parts/2SD1047/2SD1047.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:04.386Z"
+}

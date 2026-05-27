@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/BCV29:BCV29",
+  "name": "BCV29",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/BCV29.kicad_sym",
+  "description": "NPN Darlington transistor, 30Vce, 500mA, SOT-89",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/BCV29_49.pdf",
+  "keywords": "transistor NPN Darlington",
+  "footprint": "Package_TO_SOT_SMD:SOT-89-3",
+  "extends": "Q_NPN_Darlington_BCE",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/BCV29/",
+  "part_path": "parts/BCV29",
+  "symbol_file": "parts/BCV29/BCV29.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:04.901Z"
+}

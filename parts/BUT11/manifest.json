@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/BUT11:BUT11",
+  "name": "BUT11",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/BUT11.kicad_sym",
+  "description": "5A Ic, 400V Vce, Silicon Power NPN Transistors, TO-220",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/BUT11A-D.pdf",
+  "keywords": "High Voltage Power NPN Transistor",
+  "footprint": "Package_TO_SOT_THT:TO-220-3_Vertical",
+  "extends": "Q_NPN_BCE",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/BUT11/",
+  "part_path": "parts/BUT11",
+  "symbol_file": "parts/BUT11/BUT11.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.169Z"
+}

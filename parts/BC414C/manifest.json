@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/BC414C:BC414C",
+  "name": "BC414C",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/BC414C.kicad_sym",
+  "description": "0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92",
+  "datasheet": "http://www.cdil.com/datasheets/bc413_14_b_c.pdf",
+  "keywords": "NPN Transistor",
+  "footprint": "Package_TO_SOT_THT:TO-92_Inline",
+  "extends": "Q_NPN_CBE",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/BC414C/",
+  "part_path": "parts/BC414C",
+  "symbol_file": "parts/BC414C/BC414C.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:04.534Z"
+}

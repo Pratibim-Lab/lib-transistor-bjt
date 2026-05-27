@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/MMBTA44:MMBTA44",
+  "name": "MMBTA44",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/MMBTA44.kicad_sym",
+  "description": "0.3A Ic, 400V Vce, NPN High Voltage Transistor, SOT-23",
+  "datasheet": "https://diotec.com/request/datasheet/mmbta42.pdf",
+  "keywords": "SMD",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "Q_NPN_BEC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/MMBTA44/",
+  "part_path": "parts/MMBTA44",
+  "symbol_file": "parts/MMBTA44/MMBTA44.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.508Z"
+}

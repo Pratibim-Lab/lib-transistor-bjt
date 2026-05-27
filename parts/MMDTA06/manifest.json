@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/MMDTA06:MMDTA06",
+  "name": "MMDTA06",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/MMDTA06.kicad_sym",
+  "description": "500mA IC, 80V Vce, Dual NPN transistor, SC-74",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/MMDTA06.pdf",
+  "keywords": "dual transistor NPN",
+  "footprint": "Package_TO_SOT_SMD:SC-74-6_1.55x2.9mm_P0.95mm",
+  "extends": "Q_Dual_NPN_NPN_B1E2B2C2E1C1",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/MMDTA06/",
+  "part_path": "parts/MMDTA06",
+  "symbol_file": "parts/MMDTA06/MMDTA06.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.542Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/DTC123J:DTC123J",
+  "name": "DTC123J",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/DTC123J.kicad_sym",
+  "description": "Digital NPN Transistor, 2k2/47k, SOT-23",
+  "datasheet": "",
+  "keywords": "ROHM Digital NPN Transistor",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/DTC123J/",
+  "part_path": "parts/DTC123J",
+  "symbol_file": "parts/DTC123J/DTC123J.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.353Z"
+}

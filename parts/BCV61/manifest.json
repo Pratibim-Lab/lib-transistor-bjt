@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/BCV61:BCV61",
+  "name": "BCV61",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/BCV61.kicad_sym",
+  "description": "100mA IC, 30V Vce, Double NPN Transistors, Current mirror configuration, SOT-143",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/BCV61.pdf",
+  "keywords": "Transistor Double NPN",
+  "footprint": "Package_TO_SOT_SMD:SOT-143",
+  "extends": "Q_Dual_NPN_C2C1E1E2",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/BCV61/",
+  "part_path": "parts/BCV61",
+  "symbol_file": "parts/BCV61/BCV61.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:04.910Z"
+}

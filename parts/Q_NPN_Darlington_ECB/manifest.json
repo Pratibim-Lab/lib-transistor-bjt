@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/Q_NPN_Darlington_ECB:Q_NPN_Darlington_ECB",
+  "name": "Q_NPN_Darlington_ECB",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/Q_NPN_Darlington_ECB.kicad_sym",
+  "description": "NPN Darlington transistor, emitter/collector/base",
+  "datasheet": "",
+  "keywords": "BJT",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/Q_NPN_Darlington_ECB/",
+  "part_path": "parts/Q_NPN_Darlington_ECB",
+  "symbol_file": "parts/Q_NPN_Darlington_ECB/Q_NPN_Darlington_ECB.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.768Z"
+}

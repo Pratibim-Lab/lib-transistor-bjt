@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/BC212:BC212",
+  "name": "BC212",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/BC212.kicad_sym",
+  "description": "0.3A Ic, 50V Vce, PNP Transistor, TO-92",
+  "datasheet": "https://media.digikey.com/pdf/Data%20Sheets/Fairchild%20PDFs/BC212.pdf",
+  "keywords": "PNP Transistor",
+  "footprint": "Package_TO_SOT_THT:TO-92_Inline",
+  "extends": "Q_PNP_CBE",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/BC212/",
+  "part_path": "parts/BC212",
+  "symbol_file": "parts/BC212/BC212.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:04.438Z"
+}

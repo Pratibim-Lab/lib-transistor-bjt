@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/MMBT5550L:MMBT5550L",
+  "name": "MMBT5550L",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/MMBT5550L.kicad_sym",
+  "description": "0.6A Ic, 140V Vce, NPN Transistor, SOT-23",
+  "datasheet": "www.onsemi.com/pub/Collateral/MMBT5550LT1-D.PDF",
+  "keywords": "NPN Transistor",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "Q_NPN_BEC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/MMBT5550L/",
+  "part_path": "parts/MMBT5550L",
+  "symbol_file": "parts/MMBT5550L/MMBT5550L.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.495Z"
+}

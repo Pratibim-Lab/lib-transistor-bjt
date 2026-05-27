@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/BD249A:BD249A",
+  "name": "BD249A",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/BD249A.kicad_sym",
+  "description": "25A Ic, 70V Vce, Silicon Power NPN Transistors, SOT-93/TO247",
+  "datasheet": "http://www.mospec.com.tw/pdf/power/BD249.pdf",
+  "keywords": "Power NPN Transistor",
+  "footprint": "",
+  "extends": "Q_NPN_BCE",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/BD249A/",
+  "part_path": "parts/BD249A",
+  "symbol_file": "parts/BD249A/BD249A.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:04.987Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/2SC1941:2SC1941",
+  "name": "2SC1941",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/2SC1941.kicad_sym",
+  "description": "50mA Ic, 160V Vce, Audio High Voltage NPN Transistor, TO-92",
+  "datasheet": "http://rtellason.com/transdata/2sc1941.pdf",
+  "keywords": "Audio High Voltage NPN Transistor",
+  "footprint": "Package_TO_SOT_THT:TO-92_Inline",
+  "extends": "Q_NPN_ECB",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/2SC1941/",
+  "part_path": "parts/2SC1941",
+  "symbol_file": "parts/2SC1941/2SC1941.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:04.375Z"
+}

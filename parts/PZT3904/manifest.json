@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/PZT3904:PZT3904",
+  "name": "PZT3904",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/PZT3904.kicad_sym",
+  "description": "0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-223",
+  "datasheet": "https://www.onsemi.com/pdf/datasheet/pzt3904-d.pdf",
+  "keywords": "NPN Transistor",
+  "footprint": "Package_TO_SOT_SMD:SOT-223-3_TabPin2",
+  "extends": "Q_NPN_BCEC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/PZT3904/",
+  "part_path": "parts/PZT3904",
+  "symbol_file": "parts/PZT3904/PZT3904.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.650Z"
+}

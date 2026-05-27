@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/PZT2222A:PZT2222A",
+  "name": "PZT2222A",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/PZT2222A.kicad_sym",
+  "description": "1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, SOT-223",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/PN2222-D.PDF",
+  "keywords": "NPN General Puprose Transistor SMD",
+  "footprint": "Package_TO_SOT_SMD:SOT-223-3_TabPin2",
+  "extends": "Q_NPN_BCE",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/PZT2222A/",
+  "part_path": "parts/PZT2222A",
+  "symbol_file": "parts/PZT2222A/PZT2222A.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.648Z"
+}

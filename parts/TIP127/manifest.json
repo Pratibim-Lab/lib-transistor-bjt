@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/TIP127:TIP127",
+  "name": "TIP127",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/TIP127.kicad_sym",
+  "description": "5A Ic, 100V Vce, Silicon Darlington Power PNP Transistor, TO-220",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/TIP120-D.PDF",
+  "keywords": "Darlington Power PNP Transistor",
+  "footprint": "Package_TO_SOT_THT:TO-220-3_Vertical",
+  "extends": "TIP125",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/TIP127/",
+  "part_path": "parts/TIP127",
+  "symbol_file": "parts/TIP127/TIP127.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.845Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/BD250C:BD250C",
+  "name": "BD250C",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/BD250C.kicad_sym",
+  "description": "25A Ic, 115V Vce, Silicon Power PNP Transistors, SOT-93/TO247",
+  "datasheet": "http://www.mospec.com.tw/pdf/power/BD249.pdf",
+  "keywords": "Power PNP Transistor",
+  "footprint": "",
+  "extends": "Q_PNP_BCE",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/BD250C/",
+  "part_path": "parts/BD250C",
+  "symbol_file": "parts/BD250C/BD250C.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.000Z"
+}

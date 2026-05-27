@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/MBT3946DW1T1:MBT3946DW1T1",
+  "name": "MBT3946DW1T1",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/MBT3946DW1T1.kicad_sym",
+  "description": "200mA IC, 40V Vce, Dual NPN/PNP Transistors, SOT-363",
+  "datasheet": "http://www.onsemi.com/pub_link/Collateral/MBT3946DW1T1-D.PDF",
+  "keywords": "NPN/PNP Transistor",
+  "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+  "extends": "Q_Dual_NPN_PNP_E1B1C2E2B2C1",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/MBT3946DW1T1/",
+  "part_path": "parts/MBT3946DW1T1",
+  "symbol_file": "parts/MBT3946DW1T1/MBT3946DW1T1.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.469Z"
+}

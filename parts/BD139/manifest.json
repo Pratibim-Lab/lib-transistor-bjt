@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/BD139:BD139",
+  "name": "BD139",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/BD139.kicad_sym",
+  "description": "1.5A Ic, 80V Vce, Low Voltage Transistor, TO-126",
+  "datasheet": "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00001225.pdf",
+  "keywords": "Low Voltage Transistor",
+  "footprint": "Package_TO_SOT_THT:TO-126-3_Vertical",
+  "extends": "Q_NPN_ECB",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/BD139/",
+  "part_path": "parts/BD139",
+  "symbol_file": "parts/BD139/BD139.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:04.955Z"
+}

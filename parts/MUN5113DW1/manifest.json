@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/MUN5113DW1:MUN5113DW1",
+  "name": "MUN5113DW1",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/MUN5113DW1.kicad_sym",
+  "description": "Dual PNP Bias Resistor Transistors, Ic 100mA, Vce 50V, Vin(fwd) 40V, R1 = 47kohms, R2 = 47kohms, SOT-363",
+  "datasheet": "https://www.onsemi.com/download/data-sheet/pdf/dta144ed-d.pdf",
+  "keywords": "BRT Digital Transistor",
+  "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+  "extends": "Q_Dual_PNP_PNP_BRT_E1B1C2E2B2C1",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/MUN5113DW1/",
+  "part_path": "parts/MUN5113DW1",
+  "symbol_file": "parts/MUN5113DW1/MUN5113DW1.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.566Z"
+}

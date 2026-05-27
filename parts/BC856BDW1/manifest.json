@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/BC856BDW1:BC856BDW1",
+  "name": "BC856BDW1",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/BC856BDW1.kicad_sym",
+  "description": "100mA IC, 65V Vce, Dual PNP/PNP Transistors, SOT-363",
+  "datasheet": "http://www.onsemi.com/pub_link/Collateral/BC856BDW1T1-D.PDF",
+  "keywords": "PNP/PNP Transistor",
+  "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+  "extends": "Q_Dual_PNP_PNP_E1B1C2E2B2C1",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/BC856BDW1/",
+  "part_path": "parts/BC856BDW1",
+  "symbol_file": "parts/BC856BDW1/BC856BDW1.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:04.870Z"
+}

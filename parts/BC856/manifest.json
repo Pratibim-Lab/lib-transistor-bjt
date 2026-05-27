@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/BC856:BC856",
+  "name": "BC856",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/BC856.kicad_sym",
+  "description": "0.1A Ic, 65V Vce, PNP Transistor, SOT-23",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/BC860-D.pdf",
+  "keywords": "PNP transistor",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "Q_PNP_BEC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/BC856/",
+  "part_path": "parts/BC856",
+  "symbol_file": "parts/BC856/BC856.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:04.868Z"
+}

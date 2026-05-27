@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/BC846BS:BC846BS",
+  "name": "BC846BS",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/BC846BS.kicad_sym",
+  "description": "100mA IC, 65V Vce, Dual NPN/NPN Transistors, SOT-363",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/BC846BS.pdf",
+  "keywords": "NPN/NPN Transistor",
+  "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+  "extends": "Q_Dual_NPN_NPN_E1B1C2E2B2C1",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/BC846BS/",
+  "part_path": "parts/BC846BS",
+  "symbol_file": "parts/BC846BS/BC846BS.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:04.803Z"
+}

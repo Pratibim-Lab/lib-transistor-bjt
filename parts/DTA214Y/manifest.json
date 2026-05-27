@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/DTA214Y:DTA214Y",
+  "name": "DTA214Y",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/DTA214Y.kicad_sym",
+  "description": "Digital PNP Transistor, 10k/47k, SOT-23",
+  "datasheet": "",
+  "keywords": "ROHM Digital PNP Transistor",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/DTA214Y/",
+  "part_path": "parts/DTA214Y",
+  "symbol_file": "parts/DTA214Y/DTA214Y.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.278Z"
+}

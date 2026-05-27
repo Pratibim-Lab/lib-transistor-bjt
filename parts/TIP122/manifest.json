@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/TIP122:TIP122",
+  "name": "TIP122",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/TIP122.kicad_sym",
+  "description": "5A Ic, 100V Vce, Silicon Darlington Power NPN Transistor, TO-220",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/TIP120-D.PDF",
+  "keywords": "Darlington Power NPN Transistor",
+  "footprint": "Package_TO_SOT_THT:TO-220-3_Vertical",
+  "extends": "TIP120",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/TIP122/",
+  "part_path": "parts/TIP122",
+  "symbol_file": "parts/TIP122/TIP122.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.837Z"
+}

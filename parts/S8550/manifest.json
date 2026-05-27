@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/S8550:S8550",
+  "name": "S8550",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/S8550.kicad_sym",
+  "description": "0.7A Ic, 20V Vce, Low Voltage High Current PNP Transistor, TO-92",
+  "datasheet": "http://www.unisonic.com.tw/datasheet/S8550.pdf",
+  "keywords": "S8550 PNP Low Voltage High Current Transistor",
+  "footprint": "Package_TO_SOT_THT:TO-92_Inline",
+  "extends": "Q_PNP_EBC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/S8550/",
+  "part_path": "parts/S8550",
+  "symbol_file": "parts/S8550/S8550.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.819Z"
+}

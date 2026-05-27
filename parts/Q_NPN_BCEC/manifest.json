@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/Q_NPN_BCEC:Q_NPN_BCEC",
+  "name": "Q_NPN_BCEC",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/Q_NPN_BCEC.kicad_sym",
+  "description": "NPN transistor, base/collector/emitter, collector connected to mounting plane",
+  "datasheet": "",
+  "keywords": "BJT",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/Q_NPN_BCEC/",
+  "part_path": "parts/Q_NPN_BCEC",
+  "symbol_file": "parts/Q_NPN_BCEC/Q_NPN_BCEC.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.725Z"
+}

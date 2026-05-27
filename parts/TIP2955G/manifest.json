@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/TIP2955G:TIP2955G",
+  "name": "TIP2955G",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/TIP2955G.kicad_sym",
+  "description": "-15A Ic, -60V Vce, Power PNP Transistor, TO-247",
+  "datasheet": "http://www.onsemi.com/pub_link/Collateral/TIP3055-D.PDF",
+  "keywords": "power PNP Transistor",
+  "footprint": "Package_TO_SOT_THT:TO-247-3_Vertical",
+  "extends": "Q_PNP_BCE",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/TIP2955G/",
+  "part_path": "parts/TIP2955G",
+  "symbol_file": "parts/TIP2955G/TIP2955G.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.851Z"
+}

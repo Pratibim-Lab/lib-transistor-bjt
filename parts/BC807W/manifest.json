@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/BC807W:BC807W",
+  "name": "BC807W",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/BC807W.kicad_sym",
+  "description": "0.8A Ic, 45V Vce, PNP Transistor, SOT-323",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/BC808-D.pdf",
+  "keywords": "PNP transistor",
+  "footprint": "Package_TO_SOT_SMD:SOT-323_SC-70",
+  "extends": "Q_PNP_BEC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/BC807W/",
+  "part_path": "parts/BC807W",
+  "symbol_file": "parts/BC807W/BC807W.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:04.695Z"
+}

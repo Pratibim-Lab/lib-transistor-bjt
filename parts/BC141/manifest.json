@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/BC141:BC141",
+  "name": "BC141",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/BC141.kicad_sym",
+  "description": "1A Ic, 60V Vce, NPN Transistor, TO-39",
+  "datasheet": "http://www.farnell.com/datasheets/296634.pdf",
+  "keywords": "NPN Transistor",
+  "footprint": "Package_TO_SOT_THT:TO-39-3",
+  "extends": "Q_NPN_EBC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/BC141/",
+  "part_path": "parts/BC141",
+  "symbol_file": "parts/BC141/BC141.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:04.425Z"
+}

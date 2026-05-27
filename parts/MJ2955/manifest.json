@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/MJ2955:MJ2955",
+  "name": "MJ2955",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/MJ2955.kicad_sym",
+  "description": "-15A Ic, -60V Vce, Power PNP Transistor, TO-3",
+  "datasheet": "http://www.onsemi.com/pub_link/Collateral/2N3055-D.PDF",
+  "keywords": "power PNP Transistor",
+  "footprint": "Package_TO_SOT_THT:TO-3",
+  "extends": "Q_PNP_BEC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/MJ2955/",
+  "part_path": "parts/MJ2955",
+  "symbol_file": "parts/MJ2955/MJ2955.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.472Z"
+}

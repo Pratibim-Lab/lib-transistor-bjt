@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/BC846BLP4:BC846BLP4",
+  "name": "BC846BLP4",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/BC846BLP4.kicad_sym",
+  "description": "0.1A Ic, 65V Vce, NPN Transistor, DFN1006-3",
+  "datasheet": "https://www.diodes.com/datasheet/download/BC846BLP4.pdf",
+  "keywords": "NPN Transistor",
+  "footprint": "Package_DFN_QFN:Diodes_DFN1006-3",
+  "extends": "Q_NPN_BEC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/BC846BLP4/",
+  "part_path": "parts/BC846BLP4",
+  "symbol_file": "parts/BC846BLP4/BC846BLP4.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:04.772Z"
+}

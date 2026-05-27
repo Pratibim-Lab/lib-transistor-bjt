@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/SSM2220:SSM2220",
+  "name": "SSM2220",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/SSM2220.kicad_sym",
+  "description": "Audio Dual Matched PNP transistor, DIP-8/SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/SSM2220.pdf",
+  "keywords": "audio pnp dual",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/SSM2220/",
+  "part_path": "parts/SSM2220",
+  "symbol_file": "parts/SSM2220/SSM2220.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.830Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/BFR92:BFR92",
+  "name": "BFR92",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/BFR92.kicad_sym",
+  "description": "0.025A Ic, 15V Vce, 5GHz Wideband NPN Transistor, SOT-323",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/BFR92A_N.pdf",
+  "keywords": "RF 5GHz NPN Transistor",
+  "footprint": "Package_TO_SOT_SMD:SOT-323_SC-70",
+  "extends": "Q_NPN_BEC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/BFR92/",
+  "part_path": "parts/BFR92",
+  "symbol_file": "parts/BFR92/BFR92.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.164Z"
+}

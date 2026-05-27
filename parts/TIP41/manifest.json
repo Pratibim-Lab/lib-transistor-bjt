@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/TIP41:TIP41",
+  "name": "TIP41",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/TIP41.kicad_sym",
+  "description": "6A Ic, 40V Vce, Power NPN Transistor, TO-220",
+  "datasheet": "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=tip41.PDF",
+  "keywords": "power NPN Transistor",
+  "footprint": "Package_TO_SOT_THT:TO-220-3_Vertical",
+  "extends": "Q_NPN_BCE",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/TIP41/",
+  "part_path": "parts/TIP41",
+  "symbol_file": "parts/TIP41/TIP41.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.858Z"
+}

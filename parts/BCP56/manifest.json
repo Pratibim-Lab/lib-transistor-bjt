@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/BCP56:BCP56",
+  "name": "BCP56",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/BCP56.kicad_sym",
+  "description": "1A Ic, 80V Vce, NPN Medium Power Transistor, SOT-223",
+  "datasheet": "https://www.nxp.com/docs/en/data-sheet/BCP56_BCX56_BC56PA.pdf",
+  "keywords": "NPN Transistor",
+  "footprint": "Package_TO_SOT_SMD:SOT-223-3_TabPin2",
+  "extends": "Q_NPN_BCEC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/BCP56/",
+  "part_path": "parts/BCP56",
+  "symbol_file": "parts/BCP56/BCP56.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:04.899Z"
+}

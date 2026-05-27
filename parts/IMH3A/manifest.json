@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/IMH3A:IMH3A",
+  "name": "IMH3A",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/IMH3A.kicad_sym",
+  "description": "0.1A Ic, 50V Vce, Dual NPN Input Resistor Transistors, SOT-457",
+  "datasheet": "http://rohmfs.rohm.com/en/products/databook/datasheet/discrete/transistor/digital/emh3t2r-e.pdf",
+  "keywords": "Dual NPN Transistor",
+  "footprint": "Package_TO_SOT_SMD:ROHM_SOT-457_ClockwisePinNumbering",
+  "extends": "Q_Dual_NPN_NPN_BRT_No_R2_C1B2E2C2B1E1",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/IMH3A/",
+  "part_path": "parts/IMH3A",
+  "symbol_file": "parts/IMH3A/IMH3A.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.456Z"
+}

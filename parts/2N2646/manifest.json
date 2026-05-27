@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/2N2646:2N2646",
+  "name": "2N2646",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/2N2646.kicad_sym",
+  "description": "Unijunction Transistor, TO-18",
+  "datasheet": "http://www.bucek.name/pdf/2n2646,2647.pdf",
+  "keywords": "UJT",
+  "footprint": "Package_TO_SOT_THT:TO-18-3",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/2N2646/",
+  "part_path": "parts/2N2646",
+  "symbol_file": "parts/2N2646/2N2646.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:04.341Z"
+}

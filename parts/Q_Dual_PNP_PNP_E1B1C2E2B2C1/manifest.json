@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/Q_Dual_PNP_PNP_E1B1C2E2B2C1:Q_Dual_PNP_PNP_E1B1C2E2B2C1",
+  "name": "Q_Dual_PNP_PNP_E1B1C2E2B2C1",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/Q_Dual_PNP_PNP_E1B1C2E2B2C1.kicad_sym",
+  "description": "Dual PNP transistor, 6 pin package",
+  "datasheet": "",
+  "keywords": "BJT",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/Q_Dual_PNP_PNP_E1B1C2E2B2C1/",
+  "part_path": "parts/Q_Dual_PNP_PNP_E1B1C2E2B2C1",
+  "symbol_file": "parts/Q_Dual_PNP_PNP_E1B1C2E2B2C1/Q_Dual_PNP_PNP_E1B1C2E2B2C1.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.719Z"
+}

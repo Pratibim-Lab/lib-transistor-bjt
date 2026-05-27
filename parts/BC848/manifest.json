@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/BC848:BC848",
+  "name": "BC848",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/BC848.kicad_sym",
+  "description": "0.1A Ic, 30V Vce, NPN Transistor, SOT-23",
+  "datasheet": "http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657",
+  "keywords": "NPN Small Signal Transistor",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "Q_NPN_BEC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/BC848/",
+  "part_path": "parts/BC848",
+  "symbol_file": "parts/BC848/BC848.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:04.849Z"
+}

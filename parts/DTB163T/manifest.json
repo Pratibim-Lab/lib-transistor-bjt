@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/DTB163T:DTB163T",
+  "name": "DTB163T",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/DTB163T.kicad_sym",
+  "description": "Digital PNP Transistor, 6k8/NONE, SOT-23",
+  "datasheet": "",
+  "keywords": "ROHM Digital PNP Transistor",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/DTB163T/",
+  "part_path": "parts/DTB163T",
+  "symbol_file": "parts/DTB163T/DTB163T.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.312Z"
+}

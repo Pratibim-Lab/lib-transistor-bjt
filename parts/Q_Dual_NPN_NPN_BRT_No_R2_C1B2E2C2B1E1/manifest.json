@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/Q_Dual_NPN_NPN_BRT_No_R2_C1B2E2C2B1E1:Q_Dual_NPN_NPN_BRT_No_R2_C1B2E2C2B1E1",
+  "name": "Q_Dual_NPN_NPN_BRT_No_R2_C1B2E2C2B1E1",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/Q_Dual_NPN_NPN_BRT_No_R2_C1B2E2C2B1E1.kicad_sym",
+  "description": "Dual NPN bias resistor transistor without a base-emitter resistor, 6 pin package",
+  "datasheet": "",
+  "keywords": "BJT",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/Q_Dual_NPN_NPN_BRT_No_R2_C1B2E2C2B1E1/",
+  "part_path": "parts/Q_Dual_NPN_NPN_BRT_No_R2_C1B2E2C2B1E1",
+  "symbol_file": "parts/Q_Dual_NPN_NPN_BRT_No_R2_C1B2E2C2B1E1/Q_Dual_NPN_NPN_BRT_No_R2_C1B2E2C2B1E1.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.673Z"
+}

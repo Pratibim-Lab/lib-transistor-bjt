@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/SS8050:SS8050",
+  "name": "SS8050",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/SS8050.kicad_sym",
+  "description": "General Purpose NPN Transistor, 1.5A Ic, 25V Vce, SOT-23",
+  "datasheet": "http://www.secosgmbh.com/datasheet/products/SSMPTransistor/SOT-23/SS8050.pdf",
+  "keywords": "SS8050 NPN Transistor",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "Q_NPN_BEC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/SS8050/",
+  "part_path": "parts/SS8050",
+  "symbol_file": "parts/SS8050/SS8050.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.822Z"
+}

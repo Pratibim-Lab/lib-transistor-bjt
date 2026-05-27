@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/Q_PNP_BEC:Q_PNP_BEC",
+  "name": "Q_PNP_BEC",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/Q_PNP_BEC.kicad_sym",
+  "description": "PNP transistor, base/emitter/collector",
+  "datasheet": "",
+  "keywords": "BJT",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/Q_PNP_BEC/",
+  "part_path": "parts/Q_PNP_BEC",
+  "symbol_file": "parts/Q_PNP_BEC/Q_PNP_BEC.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.782Z"
+}

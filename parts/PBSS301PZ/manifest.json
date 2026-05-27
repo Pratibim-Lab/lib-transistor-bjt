@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/PBSS301PZ:PBSS301PZ",
+  "name": "PBSS301PZ",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/PBSS301PZ.kicad_sym",
+  "description": "-5.7A Ic, -12V Vce, Small Signal PNP Transistor, SOT-223",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/PBSS301PZ.pdf",
+  "keywords": "PNP Transistor",
+  "footprint": "Package_TO_SOT_SMD:SOT-223-3_TabPin2",
+  "extends": "Q_PNP_BCEC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/PBSS301PZ/",
+  "part_path": "parts/PBSS301PZ",
+  "symbol_file": "parts/PBSS301PZ/PBSS301PZ.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.618Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/DTA124X:DTA124X",
+  "name": "DTA124X",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/DTA124X.kicad_sym",
+  "description": "Digital PNP Transistor, 22k/47k, SOT-23",
+  "datasheet": "",
+  "keywords": "ROHM Digital PNP Transistor",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/DTA124X/",
+  "part_path": "parts/DTA124X",
+  "symbol_file": "parts/DTA124X/DTA124X.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.234Z"
+}

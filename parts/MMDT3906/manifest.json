@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/MMDT3906:MMDT3906",
+  "name": "MMDT3906",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/MMDT3906.kicad_sym",
+  "description": "200mA IC, 40V Vce, Dual PNP/PNP Transistors, SOT-363",
+  "datasheet": "http://www.diodes.com/_files/datasheets/ds30124.pdf",
+  "keywords": "PNP/PNP Transistor",
+  "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+  "extends": "Q_Dual_PNP_PNP_E1B1C2E2B2C1",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/MMDT3906/",
+  "part_path": "parts/MMDT3906",
+  "symbol_file": "parts/MMDT3906/MMDT3906.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.528Z"
+}

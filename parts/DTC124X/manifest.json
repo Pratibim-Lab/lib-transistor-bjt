@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/DTC124X:DTC124X",
+  "name": "DTC124X",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/DTC124X.kicad_sym",
+  "description": "Digital NPN Transistor, 22k/47k, SOT-23",
+  "datasheet": "",
+  "keywords": "ROHM Digital NPN Transistor",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/DTC124X/",
+  "part_path": "parts/DTC124X",
+  "symbol_file": "parts/DTC124X/DTC124X.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.362Z"
+}

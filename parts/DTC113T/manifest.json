@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/DTC113T:DTC113T",
+  "name": "DTC113T",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/DTC113T.kicad_sym",
+  "description": "Digital NPN Transistor, 1k/NONE, SOT-23",
+  "datasheet": "",
+  "keywords": "ROHM Digital NPN Transistor",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/DTC113T/",
+  "part_path": "parts/DTC113T",
+  "symbol_file": "parts/DTC113T/DTC113T.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.315Z"
+}

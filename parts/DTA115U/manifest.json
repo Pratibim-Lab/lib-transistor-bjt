@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/DTA115U:DTA115U",
+  "name": "DTA115U",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/DTA115U.kicad_sym",
+  "description": "Digital PNP Transistor, 100k/10k, SOT-23",
+  "datasheet": "",
+  "keywords": "ROHM Digital PNP Transistor",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/DTA115U/",
+  "part_path": "parts/DTA115U",
+  "symbol_file": "parts/DTA115U/DTA115U.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.213Z"
+}

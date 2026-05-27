@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/BC846:BC846",
+  "name": "BC846",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/BC846.kicad_sym",
+  "description": "0.1A Ic, 65V Vce, NPN Transistor, SOT-23",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/BC846_SER.pdf",
+  "keywords": "NPN Transistor",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "Q_NPN_BEC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/BC846/",
+  "part_path": "parts/BC846",
+  "symbol_file": "parts/BC846/BC846.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:04.754Z"
+}

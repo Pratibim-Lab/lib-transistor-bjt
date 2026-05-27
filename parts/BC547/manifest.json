@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/BC547:BC547",
+  "name": "BC547",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/BC547.kicad_sym",
+  "description": "0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/BC550-D.pdf",
+  "keywords": "NPN Transistor",
+  "footprint": "Package_TO_SOT_THT:TO-92_Inline",
+  "extends": "Q_NPN_CBE",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/BC547/",
+  "part_path": "parts/BC547",
+  "symbol_file": "parts/BC547/BC547.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:04.569Z"
+}

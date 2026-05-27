@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/BC858W:BC858W",
+  "name": "BC858W",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/BC858W.kicad_sym",
+  "description": "0.1A Ic, 30V Vce, PNP Small Signal Transistor, SOT-323",
+  "datasheet": "http://www.infineon.com/dgdl/Infineon-BC857SERIES_BC858SERIES_BC859SERIES_BC860SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541da0e3a1661",
+  "keywords": "PNP Transistor",
+  "footprint": "Package_TO_SOT_SMD:SOT-323_SC-70",
+  "extends": "Q_PNP_BEC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/BC858W/",
+  "part_path": "parts/BC858W",
+  "symbol_file": "parts/BC858W/BC858W.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:04.884Z"
+}

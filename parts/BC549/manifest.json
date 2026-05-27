@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/BC549:BC549",
+  "name": "BC549",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/BC549.kicad_sym",
+  "description": "0.1A Ic, 30V Vce, Small Signal NPN Transistor, TO-92",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/BC550-D.pdf",
+  "keywords": "NPN Transistor",
+  "footprint": "Package_TO_SOT_THT:TO-92_Inline",
+  "extends": "Q_NPN_CBE",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/BC549/",
+  "part_path": "parts/BC549",
+  "symbol_file": "parts/BC549/BC549.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:04.587Z"
+}

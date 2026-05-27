@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/DTA123E:DTA123E",
+  "name": "DTA123E",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/DTA123E.kicad_sym",
+  "description": "Digital PNP Transistor, 2k2/2k2, SOT-23",
+  "datasheet": "",
+  "keywords": "ROHM Digital PNP Transistor",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/DTA123E/",
+  "part_path": "parts/DTA123E",
+  "symbol_file": "parts/DTA123E/DTA123E.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.215Z"
+}

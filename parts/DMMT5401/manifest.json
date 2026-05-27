@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/DMMT5401:DMMT5401",
+  "name": "DMMT5401",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/DMMT5401.kicad_sym",
+  "description": "Dual PNP transistor, 6 pin package",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/ds30437.pdf",
+  "keywords": "transistor PNP",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "Q_Dual_PNP_PNP_C1B1B2C2E2E1",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/DMMT5401/",
+  "part_path": "parts/DMMT5401",
+  "symbol_file": "parts/DMMT5401/DMMT5401.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.176Z"
+}

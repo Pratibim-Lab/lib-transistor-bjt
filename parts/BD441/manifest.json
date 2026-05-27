@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/BD441:BD441",
+  "name": "BD441",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/BD441.kicad_sym",
+  "description": "4A Ic, 80V Vce, Power NPN Transistor, TO-126",
+  "datasheet": "http://www.cdil.com/datasheets/bd433_42.pdf",
+  "keywords": "Power NPN Transistor",
+  "footprint": "Package_TO_SOT_THT:TO-126-3_Vertical",
+  "extends": "Q_NPN_ECB",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/BD441/",
+  "part_path": "parts/BD441",
+  "symbol_file": "parts/BD441/BD441.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.025Z"
+}

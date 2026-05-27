@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/320S14-U:320S14-U",
+  "name": "320S14-U",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/320S14-U.kicad_sym",
+  "description": "4 Matched PNP Transistors, hfe=75, SOIC-14",
+  "datasheet": "https://www.thatcorp.com/datashts/THAT_300-Series_Datasheet.pdf",
+  "keywords": "dual pair pnp matched transistors",
+  "footprint": "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/320S14-U/",
+  "part_path": "parts/320S14-U",
+  "symbol_file": "parts/320S14-U/320S14-U.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:04.398Z"
+}

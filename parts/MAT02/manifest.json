@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/MAT02:MAT02",
+  "name": "MAT02",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/MAT02.kicad_sym",
+  "description": "20mA Ic, 40V Vce, Precision Dual Monolithic Low Noise, Low Offset Transistor, TO-78",
+  "datasheet": "http://www.elenota.pl/datasheet_download/93431/MAT02",
+  "keywords": "Precision Dual Monolithic Transistor Low Noise EOL",
+  "footprint": "Package_TO_SOT_THT:TO-78-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/MAT02/",
+  "part_path": "parts/MAT02",
+  "symbol_file": "parts/MAT02/MAT02.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.461Z"
+}

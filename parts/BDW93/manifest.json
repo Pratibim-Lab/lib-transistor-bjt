@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/BDW93:BDW93",
+  "name": "BDW93",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/BDW93.kicad_sym",
+  "description": "12A Ic, 45V Vce, Power Darlington NPN Transistor, TO-220",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/BDW93C-D.pdf",
+  "keywords": "Darlington NPN Transistor",
+  "footprint": "Package_TO_SOT_THT:TO-220-3_Vertical",
+  "extends": "Q_NPN_Darlington_BCE",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/BDW93/",
+  "part_path": "parts/BDW93",
+  "symbol_file": "parts/BDW93/BDW93.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.059Z"
+}

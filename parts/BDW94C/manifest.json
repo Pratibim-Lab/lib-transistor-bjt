@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/BDW94C:BDW94C",
+  "name": "BDW94C",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/BDW94C.kicad_sym",
+  "description": "12A Ic, 100V Vce, Power Darlington PNP Transistor, TO-220",
+  "datasheet": "http://www.bourns.com/data/global/pdfs/bdw94.pdf",
+  "keywords": "Darlington PNP Transistor",
+  "footprint": "Package_TO_SOT_THT:TO-220-3_Vertical",
+  "extends": "Q_PNP_Darlington_BCE",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/BDW94C/",
+  "part_path": "parts/BDW94C",
+  "symbol_file": "parts/BDW94C/BDW94C.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:05.137Z"
+}

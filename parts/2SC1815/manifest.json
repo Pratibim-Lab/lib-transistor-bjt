@@ -1,0 +1,17 @@
+{
+  "id": "Transistor_BJT/2SC1815:2SC1815",
+  "name": "2SC1815",
+  "library": "Transistor_BJT",
+  "file": "Transistor_BJT.kicad_symdir/2SC1815.kicad_sym",
+  "description": "0.15A Ic, 50V Vce, Low Noise Audio NPN Transistor, TO-92",
+  "datasheet": "https://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/2SC1815.pdf",
+  "keywords": "Low Noise Audio NPN Transistor",
+  "footprint": "Package_TO_SOT_THT:TO-92_Inline",
+  "extends": "Q_NPN_ECB",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-transistor-bjt@master/parts/2SC1815/",
+  "part_path": "parts/2SC1815",
+  "symbol_file": "parts/2SC1815/2SC1815.kicad_sym",
+  "source_library": "Transistor_BJT.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:14:04.368Z"
+}
